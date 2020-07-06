@@ -3,3 +3,5 @@ Welcome
 
 Kheer
 chicken
+paneer
+pasta
